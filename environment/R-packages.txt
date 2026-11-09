@@ -1,0 +1,11 @@
+R 4.6.0
+data.table 1.18.4
+dplyr 1.2.1
+stringr 1.6.0
+future 1.70.0
+future.apply 1.20.2
+ggplot2 4.0.3
+sf 1.1.2
+spdep 1.4.2
+INLA 25.10.19
+TWmap 0.1.0
